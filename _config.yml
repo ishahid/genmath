@@ -1,0 +1,8 @@
+title: GenMath
+description: Python implementation of Roger Alsing's GenMath.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
